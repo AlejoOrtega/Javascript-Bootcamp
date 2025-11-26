@@ -55,29 +55,5 @@ undefined
 ]
 ```
 
-## Como crear mi primera variable?
-Para crear tu primera variable debes entender los conceptos de Declaracion, Inicializacion y Asignacion
-
-DECLARACION - Declarar una variable significa crear un espacio en la memoria para guardar un dato y darle un nombre para poder usarlo después.
-```js
-let nombre;
-```
-
-INICIALIZACION - Inicializar una variable significar asignarle un valor inicial
-```js
-nombre = 'alex';
-```
-
-(!) Declarar e Inicializar una variable
-```js
-let nombre = 'alex'
-```
-
-ASIGNACION - Asignarle un valor a una variable que ya tenia un valor
-```js
-let nombre = 'alex' (declarazion e inicializacion)
-nombre = 'carlos' (asignacion)
-```
-
 
 
